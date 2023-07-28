@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0fbb161b9cf3f67439e91ea71b2c7601, type: 3}
+  m_Name: NPC_1
+  m_EditorClassIdentifier: 
+  actor: {fileID: 5404695056422044788, guid: 65671c281d4ea254391e422040a9e21f, type: 3}
+  spreakerSprite: {fileID: 0}
+  sentence: 
+  dialogues:
+  - actorName: "Mo\xE7a"
+    profile: {fileID: -1338158817, guid: dd3af3c7b48721a44beed5a2970497a9, type: 3}
+    sentece:
+      portuguese: Ola
+      english: Hello
+      spanish: Hola
+  - actorName: "Her\xF3i"
+    profile: {fileID: 21300000, guid: 723c13a4ade312449ad5278c23d725ac, type: 3}
+    sentece:
+      portuguese: Tudo bem?
+      english: How are you?
+      spanish: Hola que tal?
+  - actorName: "Mo\xE7a"
+    profile: {fileID: 21300000, guid: 093e33df053ea064faef0c6a3d5e1a97, type: 3}
+    sentece:
+      portuguese: "Tudo \xD3timo"
+      english: 
+      spanish: 
